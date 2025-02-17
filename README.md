@@ -1,2 +1,2 @@
 # World-Cup
-A program that runs simulations of the FIFA World Cup
+The World Cup knockout round starts with 16 teams, each playing matches where the losing teams are eliminated. Each team has a FIFA rating, representing their relative skill level. Using these ratings, we can estimate the probability of a team winning. This program simulates the tournament multiple times (e.g., 1000 simulations) to estimate each team’s chances of winning. By running these simulations efficiently with Python, we can analyze outcomes and understand how rating differences impact tournament results.
